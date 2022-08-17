@@ -2,4 +2,4 @@
 
 🗺 I usually contribute to various mapping related projects such as OpenStreetMap.
 
-🌐 You can reach me on my e-mail (hi@gustavlindqvist.se), Mastodon ([@gustav@jkpg.rocks](https://jkpg.rocks/@gustav)) or Twitter ([@lindqvistus](https://twitter.com/lindqvistus))
+🌐 You can reach me on my e-mail (hi@gustavlindqvist.se), Mastodon ([@gustav@mastodon.se](https://mastodon.se/@gustav)) or Twitter ([@lindqvistus](https://twitter.com/lindqvistus))
